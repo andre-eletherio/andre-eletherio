@@ -1,4 +1,4 @@
-## Olá, eu sou a André Eletherio, dev apaixonado por tecnologia e inovação!
+## Olá, eu sou o André Eletherio, dev apaixonado por tecnologia e inovação!
 
 <div align="center">
   <a href="https://github.com/andre-eletherio">
